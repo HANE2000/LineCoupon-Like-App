@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LineCoupon-Like App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="coupon_common_text">\n\nクーポンの有効期間は、UTC+09:00を基準に表示しています。</string>
+
+    <string name="naito_202402_unique_text">ご当選おめでとうございます！入館無料クーポンをお届けします♪\n\n★・★・★・★・★\n有効期限:2024年2月5日~2024年3月31日まで\nご本人様に限り、期間中1回のご利用ができます。\n★・★・★・★・★\n\nクーポンを利用するにはこの画面をスタッフに提示してください。</string>
+</resources>
